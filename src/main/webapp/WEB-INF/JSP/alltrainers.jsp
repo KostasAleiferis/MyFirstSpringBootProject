@@ -1,8 +1,4 @@
-<%-- 
-    Document   : alltrainers
-    Created on : Mar 27, 2020, 3:12:20 PM
-    Author     : kwsta
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
